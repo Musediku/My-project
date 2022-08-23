@@ -1,0 +1,1 @@
+### The project analyse  information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. Below are the list of some of the columns in the dataset with description of data contained in the columns:
